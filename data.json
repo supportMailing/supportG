@@ -15,6 +15,6 @@
         {"name":"Test1","password":"1tset","limite":"11/02/2022"},
         {"name":"Test2","password":"2tset","limite":"11/02/2022"},
         {"name":"Test3","password":"3tset","limite":"11/02/2022"},
-        {"name":"Test4","password":"4tset","limite":"11/02/2022"},
+        {"name":"Test4","password":"4tset","limite":"11/02/2022"}
     ]
 }
